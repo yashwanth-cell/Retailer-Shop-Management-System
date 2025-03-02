@@ -1,0 +1,47 @@
+Retailer Shop Management System
+1. Add Product
+2. Display Products
+3. Make a Sale
+4. Update Product Stock
+5. Exit
+Enter your choice: 1
+Enter product name: Laptop
+Enter product price: 500.50
+Enter product quantity: 10
+Product added successfully!
+
+Retailer Shop Management System
+1. Add Product
+2. Display Products
+3. Make a Sale
+4. Update Product Stock
+5. Exit
+Enter your choice: 2
+List of Products:
+Product Name: Laptop
+Price: 500.5
+Quantity: 10
+-------------------------
+
+Retailer Shop Management System
+1. Add Product
+2. Display Products
+3. Make a Sale
+4. Update Product Stock
+5. Exit
+Enter your choice: 3
+Enter product name: Laptop
+Enter quantity: 2
+Sale Successful!
+Total Amount: 1001.00
+
+Retailer Shop Management System
+1. Add Product
+2. Display Products
+3. Make a Sale
+4. Update Product Stock
+5. Exit
+Enter your choice: 4
+Enter product name to update stock: Laptop
+Enter quantity to add: 5
+Stock updated successfully!
